@@ -326,3 +326,195 @@
 2022-11-22 14:55:36,830 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName Finished *****
 2022-11-22 14:55:36,830 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName Finished *****
 2022-11-22 14:55:36,830 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName Finished *****
+2022-11-28 16:12:46,775 :INFO : utilities.customLogger :***** Test_003_AddCustomer *****
+2022-11-28 16:12:46,775 :INFO : utilities.customLogger :***** Test_003_AddCustomer *****
+2022-11-28 16:12:46,775 :INFO : utilities.customLogger :***** Test_003_AddCustomer *****
+2022-11-28 16:12:46,775 :INFO : utilities.customLogger :***** Test_003_AddCustomer *****
+2022-11-28 16:12:46,775 :INFO : utilities.customLogger :***** Test_003_AddCustomer *****
+2022-11-28 16:12:55,257 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:12:55,257 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:12:55,257 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:12:55,257 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:12:55,257 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:12:55,258 :INFO : utilities.customLogger :***** Starting Add Customer Test *****
+2022-11-28 16:12:55,258 :INFO : utilities.customLogger :***** Starting Add Customer Test *****
+2022-11-28 16:12:55,258 :INFO : utilities.customLogger :***** Starting Add Customer Test *****
+2022-11-28 16:12:55,258 :INFO : utilities.customLogger :***** Starting Add Customer Test *****
+2022-11-28 16:12:55,258 :INFO : utilities.customLogger :***** Starting Add Customer Test *****
+2022-11-28 16:12:58,203 :INFO : utilities.customLogger :***** Providing customer details *****
+2022-11-28 16:12:58,203 :INFO : utilities.customLogger :***** Providing customer details *****
+2022-11-28 16:12:58,203 :INFO : utilities.customLogger :***** Providing customer details *****
+2022-11-28 16:12:58,203 :INFO : utilities.customLogger :***** Providing customer details *****
+2022-11-28 16:12:58,203 :INFO : utilities.customLogger :***** Providing customer details *****
+2022-11-28 16:13:10,999 :INFO : utilities.customLogger :***** Saving customer information *****
+2022-11-28 16:13:10,999 :INFO : utilities.customLogger :***** Saving customer information *****
+2022-11-28 16:13:10,999 :INFO : utilities.customLogger :***** Saving customer information *****
+2022-11-28 16:13:10,999 :INFO : utilities.customLogger :***** Saving customer information *****
+2022-11-28 16:13:10,999 :INFO : utilities.customLogger :***** Saving customer information *****
+2022-11-28 16:13:10,999 :INFO : utilities.customLogger :***** Add customer validation started *****
+2022-11-28 16:13:10,999 :INFO : utilities.customLogger :***** Add customer validation started *****
+2022-11-28 16:13:10,999 :INFO : utilities.customLogger :***** Add customer validation started *****
+2022-11-28 16:13:10,999 :INFO : utilities.customLogger :***** Add customer validation started *****
+2022-11-28 16:13:10,999 :INFO : utilities.customLogger :***** Add customer validation started *****
+2022-11-28 16:13:11,224 :INFO : utilities.customLogger :***** Add Customer Test passed *****
+2022-11-28 16:13:11,224 :INFO : utilities.customLogger :***** Add Customer Test passed *****
+2022-11-28 16:13:11,224 :INFO : utilities.customLogger :***** Add Customer Test passed *****
+2022-11-28 16:13:11,224 :INFO : utilities.customLogger :***** Add Customer Test passed *****
+2022-11-28 16:13:11,224 :INFO : utilities.customLogger :***** Add Customer Test passed *****
+2022-11-28 16:13:11,392 :INFO : utilities.customLogger :***** Ending Add Customer Test *****
+2022-11-28 16:13:11,392 :INFO : utilities.customLogger :***** Ending Add Customer Test *****
+2022-11-28 16:13:11,392 :INFO : utilities.customLogger :***** Ending Add Customer Test *****
+2022-11-28 16:13:11,392 :INFO : utilities.customLogger :***** Ending Add Customer Test *****
+2022-11-28 16:13:11,392 :INFO : utilities.customLogger :***** Ending Add Customer Test *****
+2022-11-28 16:13:11,395 :INFO : utilities.customLogger :***** ****** *****
+2022-11-28 16:13:11,395 :INFO : utilities.customLogger :***** ****** *****
+2022-11-28 16:13:11,395 :INFO : utilities.customLogger :***** ****** *****
+2022-11-28 16:13:11,395 :INFO : utilities.customLogger :***** ****** *****
+2022-11-28 16:13:11,395 :INFO : utilities.customLogger :***** ****** *****
+2022-11-28 16:13:12,715 :INFO : utilities.customLogger :*****Test_001_Login*****
+2022-11-28 16:13:12,715 :INFO : utilities.customLogger :*****Test_001_Login*****
+2022-11-28 16:13:12,715 :INFO : utilities.customLogger :*****Test_001_Login*****
+2022-11-28 16:13:12,715 :INFO : utilities.customLogger :*****Test_001_Login*****
+2022-11-28 16:13:12,715 :INFO : utilities.customLogger :*****Test_001_Login*****
+2022-11-28 16:13:12,715 :INFO : utilities.customLogger :*****Verifying the Homepage Title*****
+2022-11-28 16:13:12,715 :INFO : utilities.customLogger :*****Verifying the Homepage Title*****
+2022-11-28 16:13:12,715 :INFO : utilities.customLogger :*****Verifying the Homepage Title*****
+2022-11-28 16:13:12,715 :INFO : utilities.customLogger :*****Verifying the Homepage Title*****
+2022-11-28 16:13:12,715 :INFO : utilities.customLogger :*****Verifying the Homepage Title*****
+2022-11-28 16:13:14,575 :INFO : utilities.customLogger :*****Homepage title test is passed*****
+2022-11-28 16:13:14,575 :INFO : utilities.customLogger :*****Homepage title test is passed*****
+2022-11-28 16:13:14,575 :INFO : utilities.customLogger :*****Homepage title test is passed*****
+2022-11-28 16:13:14,575 :INFO : utilities.customLogger :*****Homepage title test is passed*****
+2022-11-28 16:13:14,575 :INFO : utilities.customLogger :*****Homepage title test is passed*****
+2022-11-28 16:13:15,879 :INFO : utilities.customLogger :*****Test_001_Login*****
+2022-11-28 16:13:15,879 :INFO : utilities.customLogger :*****Test_001_Login*****
+2022-11-28 16:13:15,879 :INFO : utilities.customLogger :*****Test_001_Login*****
+2022-11-28 16:13:15,879 :INFO : utilities.customLogger :*****Test_001_Login*****
+2022-11-28 16:13:15,879 :INFO : utilities.customLogger :*****Test_001_Login*****
+2022-11-28 16:13:15,879 :INFO : utilities.customLogger :*****Verifying the Login Title*****
+2022-11-28 16:13:15,879 :INFO : utilities.customLogger :*****Verifying the Login Title*****
+2022-11-28 16:13:15,879 :INFO : utilities.customLogger :*****Verifying the Login Title*****
+2022-11-28 16:13:15,879 :INFO : utilities.customLogger :*****Verifying the Login Title*****
+2022-11-28 16:13:15,879 :INFO : utilities.customLogger :*****Verifying the Login Title*****
+2022-11-28 16:13:24,489 :INFO : utilities.customLogger :*****Login title test is passed*****
+2022-11-28 16:13:24,489 :INFO : utilities.customLogger :*****Login title test is passed*****
+2022-11-28 16:13:24,489 :INFO : utilities.customLogger :*****Login title test is passed*****
+2022-11-28 16:13:24,489 :INFO : utilities.customLogger :*****Login title test is passed*****
+2022-11-28 16:13:24,489 :INFO : utilities.customLogger :*****Login title test is passed*****
+2022-11-28 16:13:25,816 :INFO : utilities.customLogger :****** Test_002_DDT_Login ******
+2022-11-28 16:13:25,816 :INFO : utilities.customLogger :****** Test_002_DDT_Login ******
+2022-11-28 16:13:25,816 :INFO : utilities.customLogger :****** Test_002_DDT_Login ******
+2022-11-28 16:13:25,816 :INFO : utilities.customLogger :****** Test_002_DDT_Login ******
+2022-11-28 16:13:25,816 :INFO : utilities.customLogger :****** Test_002_DDT_Login ******
+2022-11-28 16:13:25,816 :INFO : utilities.customLogger :**** Verifying Login DDT ****
+2022-11-28 16:13:25,816 :INFO : utilities.customLogger :**** Verifying Login DDT ****
+2022-11-28 16:13:25,816 :INFO : utilities.customLogger :**** Verifying Login DDT ****
+2022-11-28 16:13:25,816 :INFO : utilities.customLogger :**** Verifying Login DDT ****
+2022-11-28 16:13:25,816 :INFO : utilities.customLogger :**** Verifying Login DDT ****
+2022-11-28 16:13:38,824 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:38,824 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:38,824 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:38,824 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:38,824 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:46,957 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:46,957 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:46,957 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:46,957 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:46,957 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:53,000 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:53,000 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:53,000 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:53,000 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:53,000 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:59,364 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:59,364 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:59,364 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:59,364 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:59,364 :INFO : utilities.customLogger :*** Passed ***
+2022-11-28 16:13:59,364 :INFO : utilities.customLogger :**** Login DDt passed****
+2022-11-28 16:13:59,364 :INFO : utilities.customLogger :**** Login DDt passed****
+2022-11-28 16:13:59,364 :INFO : utilities.customLogger :**** Login DDt passed****
+2022-11-28 16:13:59,364 :INFO : utilities.customLogger :**** Login DDt passed****
+2022-11-28 16:13:59,364 :INFO : utilities.customLogger :**** Login DDt passed****
+2022-11-28 16:13:59,519 :INFO : utilities.customLogger :**** End of Test_002_DDT_Login  ******
+2022-11-28 16:13:59,519 :INFO : utilities.customLogger :**** End of Test_002_DDT_Login  ******
+2022-11-28 16:13:59,519 :INFO : utilities.customLogger :**** End of Test_002_DDT_Login  ******
+2022-11-28 16:13:59,519 :INFO : utilities.customLogger :**** End of Test_002_DDT_Login  ******
+2022-11-28 16:13:59,519 :INFO : utilities.customLogger :**** End of Test_002_DDT_Login  ******
+2022-11-28 16:13:59,519 :INFO : utilities.customLogger :**** Test_002_DDT_Login passed ****
+2022-11-28 16:13:59,519 :INFO : utilities.customLogger :**** Test_002_DDT_Login passed ****
+2022-11-28 16:13:59,519 :INFO : utilities.customLogger :**** Test_002_DDT_Login passed ****
+2022-11-28 16:13:59,519 :INFO : utilities.customLogger :**** Test_002_DDT_Login passed ****
+2022-11-28 16:13:59,519 :INFO : utilities.customLogger :**** Test_002_DDT_Login passed ****
+2022-11-28 16:14:00,793 :INFO : utilities.customLogger :***** Test_004_SearchCustomerByEmail *****
+2022-11-28 16:14:00,793 :INFO : utilities.customLogger :***** Test_004_SearchCustomerByEmail *****
+2022-11-28 16:14:00,793 :INFO : utilities.customLogger :***** Test_004_SearchCustomerByEmail *****
+2022-11-28 16:14:00,793 :INFO : utilities.customLogger :***** Test_004_SearchCustomerByEmail *****
+2022-11-28 16:14:00,793 :INFO : utilities.customLogger :***** Test_004_SearchCustomerByEmail *****
+2022-11-28 16:14:07,437 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:14:07,437 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:14:07,437 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:14:07,437 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:14:07,437 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:14:07,437 :INFO : utilities.customLogger :***** Starting Search Customer Test *****
+2022-11-28 16:14:07,437 :INFO : utilities.customLogger :***** Starting Search Customer Test *****
+2022-11-28 16:14:07,437 :INFO : utilities.customLogger :***** Starting Search Customer Test *****
+2022-11-28 16:14:07,437 :INFO : utilities.customLogger :***** Starting Search Customer Test *****
+2022-11-28 16:14:07,437 :INFO : utilities.customLogger :***** Starting Search Customer Test *****
+2022-11-28 16:14:08,986 :INFO : utilities.customLogger :***** Searching Customer by EmailID *****
+2022-11-28 16:14:08,986 :INFO : utilities.customLogger :***** Searching Customer by EmailID *****
+2022-11-28 16:14:08,986 :INFO : utilities.customLogger :***** Searching Customer by EmailID *****
+2022-11-28 16:14:08,986 :INFO : utilities.customLogger :***** Searching Customer by EmailID *****
+2022-11-28 16:14:08,986 :INFO : utilities.customLogger :***** Searching Customer by EmailID *****
+2022-11-28 16:14:15,384 :INFO : utilities.customLogger :***** Test_004_SearchCustomerByEmail  Finished *****
+2022-11-28 16:14:15,384 :INFO : utilities.customLogger :***** Test_004_SearchCustomerByEmail  Finished *****
+2022-11-28 16:14:15,384 :INFO : utilities.customLogger :***** Test_004_SearchCustomerByEmail  Finished *****
+2022-11-28 16:14:15,384 :INFO : utilities.customLogger :***** Test_004_SearchCustomerByEmail  Finished *****
+2022-11-28 16:14:15,384 :INFO : utilities.customLogger :***** Test_004_SearchCustomerByEmail  Finished *****
+2022-11-28 16:14:16,923 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName *****
+2022-11-28 16:14:16,923 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName *****
+2022-11-28 16:14:16,923 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName *****
+2022-11-28 16:14:16,923 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName *****
+2022-11-28 16:14:16,923 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName *****
+2022-11-28 16:14:24,545 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:14:24,545 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:14:24,545 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:14:24,545 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:14:24,545 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-28 16:14:24,545 :INFO : utilities.customLogger :***** Starting Search Customer Test *****
+2022-11-28 16:14:24,545 :INFO : utilities.customLogger :***** Starting Search Customer Test *****
+2022-11-28 16:14:24,545 :INFO : utilities.customLogger :***** Starting Search Customer Test *****
+2022-11-28 16:14:24,545 :INFO : utilities.customLogger :***** Starting Search Customer Test *****
+2022-11-28 16:14:24,545 :INFO : utilities.customLogger :***** Starting Search Customer Test *****
+2022-11-28 16:14:26,129 :INFO : utilities.customLogger :***** Searching Customer by Name *****
+2022-11-28 16:14:26,129 :INFO : utilities.customLogger :***** Searching Customer by Name *****
+2022-11-28 16:14:26,129 :INFO : utilities.customLogger :***** Searching Customer by Name *****
+2022-11-28 16:14:26,129 :INFO : utilities.customLogger :***** Searching Customer by Name *****
+2022-11-28 16:14:26,129 :INFO : utilities.customLogger :***** Searching Customer by Name *****
+2022-11-28 16:14:32,581 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName Finished *****
+2022-11-28 16:14:32,581 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName Finished *****
+2022-11-28 16:14:32,581 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName Finished *****
+2022-11-28 16:14:32,581 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName Finished *****
+2022-11-28 16:14:32,581 :INFO : utilities.customLogger :***** Test_005_SearchCustomerByName Finished *****
+2022-11-29 17:08:39,690 :INFO : utilities.customLogger :***** Test_006_EditCustomer *****
+2022-11-29 17:08:48,033 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-29 17:08:48,033 :INFO : utilities.customLogger :***** Starting Edit Customer Test *****
+2022-11-29 17:08:49,723 :INFO : utilities.customLogger :***** Editing Customer Info *****
+2022-11-29 17:12:47,954 :INFO : utilities.customLogger :***** Test_006_EditCustomer *****
+2022-11-29 17:12:57,979 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-29 17:12:57,980 :INFO : utilities.customLogger :***** Starting Edit Customer Test *****
+2022-11-29 17:12:59,658 :INFO : utilities.customLogger :***** Editing Customer Info *****
+2022-11-29 17:13:11,671 :INFO : utilities.customLogger :***** Saving edited customer information *****
+2022-11-29 17:13:11,671 :INFO : utilities.customLogger :***** edit customer validation started *****
+2022-11-29 17:13:11,910 :INFO : utilities.customLogger :***** Edit Customer Test passed *****
+2022-11-29 17:13:12,111 :INFO : utilities.customLogger :***** Ending Edit Customer Test *****
+2022-11-29 17:13:12,111 :INFO : utilities.customLogger :***** ****** *****
+2022-11-29 17:23:53,556 :INFO : utilities.customLogger :***** Test_006_EditCustomer *****
+2022-11-29 17:24:02,816 :INFO : utilities.customLogger :***** Login Successful *****
+2022-11-29 17:24:02,817 :INFO : utilities.customLogger :***** Starting Edit Customer Test *****
+2022-11-29 17:24:04,257 :INFO : utilities.customLogger :***** Editing Customer Info *****
+2022-11-29 17:24:15,879 :INFO : utilities.customLogger :***** Saving edited customer information *****
+2022-11-29 17:24:15,879 :INFO : utilities.customLogger :***** edit customer validation started *****
+2022-11-29 17:24:16,045 :INFO : utilities.customLogger :***** Edit Customer Test passed *****
+2022-11-29 17:24:16,206 :INFO : utilities.customLogger :***** Ending Edit Customer Test *****
+2022-11-29 17:24:16,206 :INFO : utilities.customLogger :***** ****** *****
